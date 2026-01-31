@@ -6,5 +6,6 @@ public class Test1 {
         System.out.println("Hello gitWithIdea!4");
         System.out.println("Hello gitWithIdea!5");
         System.out.println("hotFix");
+        System.out.println("main ct");
     }
 }
