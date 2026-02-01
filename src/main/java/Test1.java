@@ -10,6 +10,7 @@ public class Test1 {
         System.out.println("hotFix ct");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("pull test github");
         System.out.println("pull test idea");
     }
 }
