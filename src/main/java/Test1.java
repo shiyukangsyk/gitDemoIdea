@@ -9,5 +9,6 @@ public class Test1 {
         System.out.println("main ct");
         System.out.println("hotFix ct");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
