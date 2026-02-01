@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("hotFix");
         System.out.println("main ct");
         System.out.println("hotFix ct");
+        System.out.println("push test");
     }
 }
